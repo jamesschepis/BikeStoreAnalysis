@@ -9,7 +9,7 @@ Project Type:
 * Exploratory Data Analysis
 * Data Visualisation
 
-Link to code [here]()
+Link to code [here](https://github.com/jamesschepis/BikeStoreAnalysis/blob/f7dbb5ad5ee2efd5033fc4bacd6f094ab49eac04/SQLQuery_bikestoreanalysis.sql)
 
 ## **Table of Contents**
 1. [Project Background](#project-background)  
