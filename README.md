@@ -15,8 +15,12 @@ Link to code [here](https://github.com/jamesschepis/BikeStoreAnalysis/blob/f7dbb
 1. [Project Background](#project-background)  
 2. [⭐ Executive Summary](#executive-summary)  
 3. [Insights Deep-Dive](#insights-deep-dive)  
-   - [Sales Trends](#sales-trends)  
+   - [Sales Trends](#sales-trends)
+   - [Product Performance](#product-performance)  
+4. [Recommendations](#recommendations)  
+5. [Assumptions and Caveats](#assumptions-and-caveats)
 
+   
 <br>
 
 ## **Project Background**
