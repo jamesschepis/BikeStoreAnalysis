@@ -1,4 +1,4 @@
-# **Bike Store Analysis
+# **Bike Store Analysis**
 
 Tools Used: 
 * SQL (Microsoft SQL Server)
@@ -30,10 +30,10 @@ This analysis covers approximately 80,000 records spanning three years (2011–2
 Key product insights reveal that Bikes (Mountain, Road, and Touring) are the primary revenue drivers, contributing to 94% of sales (~$15M) in 2013. In contrast, lower-priced items like Tires and Tubes dominated unit sales (~16,000 units), suggesting strong accessory demand. Accessories are also high margin products with an average of 63% compared to the margin of Bikes of 40%.
 
 ### Key Recommendations:
-1. **Focus inventory and marketing efforts on Bikes, which drive the majority of revenue.
-2. **Investigate month-on-month growth volatility to understand seasonal trends or campaign impacts.
-3. **Leverage high-margin high-volume accessories (e.g., Tires and Tubes, Helmets, Bottles and Cages) through cross-sells or bundling to increase order value.
-4. **Explore promotions or product expansions during high-growth months to sustain momentum.
+1. **Focus inventory and marketing efforts on Bikes**, which drive the majority of revenue.
+2. **Investigate month-on-month growth volatility** to understand seasonal trends or campaign impacts.
+3. **Leverage high-margin high-volume accessories** (e.g., Tires and Tubes, Helmets, Bottles and Cages) through cross-sells or bundling to increase order value.
+4. **Explore promotions or product expansions** during high-growth months to sustain momentum.
 
 <br>
 
