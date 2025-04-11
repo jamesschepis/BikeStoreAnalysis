@@ -2,7 +2,7 @@
 
 Tools Used: 
 * SQL (Microsoft SQL Server)
-* Excel
+* Google Sheets
 
 Project Type:
 * Data Collection
