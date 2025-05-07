@@ -17,8 +17,7 @@ Link to code [here](https://github.com/jamesschepis/BikeStoreAnalysis/blob/f7dbb
 3. [Insights Deep-Dive](#insights-deep-dive)  
    - [Sales Trends](#sales-trends)
    - [Product Performance](#product-performance)  
-4. [Recommendations](#recommendations)  
-5. [Assumptions and Caveats](#assumptions-and-caveats)
+4. [Assumptions and Caveats](#assumptions-and-caveats)
 
    
 <br>
@@ -66,11 +65,6 @@ Key product insights reveal that Bikes—particularly Mountain, Road, and Tourin
 ![image](https://github.com/user-attachments/assets/5699011c-94cf-4352-ade8-d985633f3b02)
 ![image](https://github.com/user-attachments/assets/d4df41e7-c6e9-49c9-8c05-d527af544010)
 
-
-<br>
-
-## **Recommendations**
-- 
 
 <br>
 
